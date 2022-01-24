@@ -1,4 +1,4 @@
-package com.infytq;
+package com.infytq.Introduction;
 
 public class StringPalindrome {
     public static void main(String[] args) {

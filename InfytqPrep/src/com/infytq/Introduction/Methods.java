@@ -1,4 +1,4 @@
-package com.infytq;
+package com.infytq.Introduction;
 import java.util.Arrays;
 public class Methods {
     public static void main(String[] args) {
@@ -9,6 +9,6 @@ public class Methods {
         // output [R, a, n, j, a, n,  , S, h, a, r, m, a]
         System.out.println(name.indexOf('a'));
         System.out.println("    hello    ".trim());
-        System.out.println(Arrays.toString(name.split(" ")));
+        System.out.println(Arrays.toString(name.split(" ,")));
     }
 }
